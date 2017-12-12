@@ -75,6 +75,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="41" lean-forward="true" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+
               <folding />
             </state>
           </provider>
@@ -133,6 +134,7 @@
               <item name="next-steps-in-scala" type="b2602c69:ProjectViewProjectNode" />
               <item name="next-steps-in-scala" type="462c0819:PsiDirectoryNode" />
             </path>
+
           </expand>
           <select />
         </subPane>
